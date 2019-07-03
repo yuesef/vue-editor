@@ -17,7 +17,6 @@ Vue.config.productionTip = false
 window.$ = jQuery
 window.jQuery = jQuery
 Vue.use(VueFroala)
-
 /* eslint-disable no-new */
 new Vue({
   el: '#app',
